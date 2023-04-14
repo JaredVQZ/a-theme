@@ -1,0 +1,76 @@
+/**
+ * @name second theme
+ * @author Nyria#3863
+ * @version 2.2
+ * @description Stay comfy while talking to your friends.
+ * @invite rtBQX5D3bD
+ * @source https://github.com/NYRI4/Comfy
+ * @BDEditor Comfy
+*/
+
+@import url('https://comfy-themes.github.io/Discord/betterdiscord/main.css');
+
+:root {
+  --mention-color-bar: #000000;
+  --mention-color-background: rgb(188,188,188,0.12);
+  --mention-color-hover: rgb(79,79,79,0.29);
+  --mention-color: #A71616;
+  --unread-color: #FBFBFB;
+  --chat-buttons: #FFFFFF;
+  --avatar-radius: 3px;
+  --status-radius: 0px;
+  --server-radius: 13px;
+  --status-background: url('https://i.pinimg.com/474x/8a/f5/e2/8af5e2ce776ff9862f3fe707f5e7393b.jpg');
+  --online: #A3EBCA;
+  --iddle: #EFCA8D;
+  --dnd: #872E2E;
+  --offline: #606871;
+  --streaming: #6F49B1;
+  --spotify-color: #ADADAD;
+  --user-buttons-spacing: 8px;
+  --user-buttons-color: #FFFFFF;
+  --role-circle: 6px;
+  --discord-logo: block;
+  --colored-emoji: grayscale(0%);
+  --disable-animations: 2s channel-unread infinite;
+}
+
+.theme-dark {
+  --background-primary: #0E0E0E;
+  --background-secondary: #0E0E0E;
+  --background-secondary-alt: #212121;
+  --background-tertiary: #000000;
+  --background-mobile-primary: #0E0E0E;
+  --background-mobile-secondary: #0E0E0E;
+  --channeltextarea-background: #000000;
+  --background-accent: #656565;
+  --background-modifier-hover: rgb(0,0,0,1);
+  --background-modifier-active: rgb(53,53,53,1);
+  --background-modifier-selected: rgb(29,29,29,0.96);
+  --deprecated-card-bg: rgb(46,46,46,1);
+  --background-floating: rgb(14,14,14,1);
+  --deprecated-quickswitcher-input-background: #5D5E5E;
+  --scrollbar-auto-thumb: #494949;
+  --scrollbar-auto-track: #3A3A3A;
+  --scrollbar-thin-thumb: #323232;
+  --activity-card-background: #434343;
+  --background-message-hover: transparent;
+  --elevation-low: none;
+}
+
+.theme-light {
+  --background-primary: #23283D;
+  --background-secondary: #1E2233;
+  --background-secondary-alt: #191F2E;
+  --background-tertiary: #101320;
+  --background-accent: #7289DA;
+  --background-modifier-hover: #262B41;
+  --background-modifier-active: #262B41;
+  --header-primary: #fff;
+  --header-secondary: #B1B5B9;
+  --text-normal: #8E9297;
+}
+
+/* Any custom CSS below here */
+
+
