@@ -1,0 +1,29 @@
+/**
+ * @name seventh theme
+ * @author Disease#5663
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Outlook
+*/
+
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+
+:root {
+  --home-image: url('https://i.imgur.com/B5lk3Ui.jpg');
+  --accent-hue: 0;
+  --accent-saturation: 59%;
+  --accent-brightness: 0%;
+  --gradient-toggle: 0;
+  --gradient-hue-shift: 0;
+  --gradient-saturation: 100%;
+  --gradient-deg: 31deg;
+  --customFont: Segoe UI;
+}
+
+/* Any custom CSS below here */
+
+
