@@ -1,0 +1,78 @@
+/**
+ * @name IDon'tKnowAnymore
+ * @author Nyria#3863
+ * @version 2.2
+ * @description Stay comfy while talking to your friends.
+ * @invite rtBQX5D3bD
+ * @source https://github.com/NYRI4/Comfy
+ * @BDEditor Comfy
+*/
+
+@import url('https://comfy-themes.github.io/Discord/betterdiscord/main.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css');
+
+:root {
+  --mention-color-bar: #812727;
+  --mention-color-background: rgb(146,53,53,0.12);
+  --mention-color-hover: rgb(134,32,32,0.15);
+  --mention-color: #892323;
+  --unread-color: #656565;
+  --chat-buttons: #FFFFFF;
+  --avatar-radius: 11px;
+  --status-radius: 10px;
+  --server-radius: 25px;
+  --status-background: url('https://i.imgur.com/ODa8LKK.jpg');
+  --online: #4B7F67;
+  --iddle: #D5B47D;
+  --dnd: #892C2C;
+  --offline: #4D4E4F;
+  --streaming: #8367B3;
+  --spotify-color: #FFFFFF;
+  --user-buttons-spacing: 8px;
+  --user-buttons-color: #FFFFFF;
+  --role-circle: 10px;
+  --discord-logo: block;
+  --colored-emoji: grayscale(0%);
+  --disable-animations: 2s channel-unread infinite;
+}
+
+.theme-dark {
+  --background-primary: #1A1A1A;
+  --background-secondary: #141414;
+  --background-secondary-alt: #000000;
+  --background-tertiary: #000000;
+  --background-mobile-primary: #1A1A1A;
+  --background-mobile-secondary: #141414;
+  --channeltextarea-background: #000000;
+  --background-accent: #4A4A4A;
+  --background-modifier-hover: rgba(0, 0, 0, 0.06);
+  --background-modifier-active: rgba(0, 0, 0, 0.10);
+  --background-modifier-selected: rgba(0, 0, 0, 0.12);
+  --deprecated-card-bg: rgb(55,55,55,0.39);
+  --background-floating: rgb(48,48,48,1);
+  --deprecated-quickswitcher-input-background: #272727;
+  --scrollbar-auto-thumb: #424242;
+  --scrollbar-auto-track: #000000;
+  --scrollbar-thin-thumb: #000000;
+  --activity-card-background: #393939;
+  --background-message-hover: transparent;
+  --elevation-low: none;
+}
+
+.theme-light {
+  --background-primary: #23283D;
+  --background-secondary: #1E2233;
+  --background-secondary-alt: #191F2E;
+  --background-tertiary: #101320;
+  --background-accent: #7289DA;
+  --background-modifier-hover: #262B41;
+  --background-modifier-active: #262B41;
+  --header-primary: #fff;
+  --header-secondary: #B1B5B9;
+  --text-normal: #8E9297;
+}
+
+/* Any custom CSS below here */
+
+
